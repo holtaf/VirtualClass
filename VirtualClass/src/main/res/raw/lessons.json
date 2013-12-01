@@ -1,0 +1,111 @@
+{
+    "title": "Android Development course",
+    "lessons": [
+        {
+            "title": "Installing IDE",
+            "content": "To install Android Studio please follow this link",
+            "questions": [
+                {
+                    "title": "Android Studio",
+                    "question": "How to install Android Studio in linux",
+                    "answer": 1,
+                    "answers": [
+                        "You cannot install AS in linux",
+                        "By downloading AS from Android Developers site",
+                        "By swearing to god",
+                        "From Software center"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Installing SDK",
+            "content": "You need to open android tool to install one of SDK's",
+            "questions": [
+                {
+                    "title": "Android SDK",
+                    "question": "What is the minimum required version of Android",
+                    "answer": 3,
+                    "answers": [
+                        2.1,
+                        4,
+                        2.2,
+                        1.6
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "About Android",
+            "content": "Android powers hundreds of millions of mobile devices in more than 190 countries around the world. It's the largest installed base of any mobile platform and growing fast—every day another million users power up their Android devices for the first time and start looking for apps, games, and other digital content.Android gives you a world-class platform for creating apps and games for Android users everywhere, as well as an open marketplace for distributing to them instantly.",
+            "questions": [
+                {
+                    "title": "Countries count",
+                    "question": "How many countries use Android",
+                    "answer": 1,
+                    "answers": [
+                        "More than 190",
+                        "Less then 100",
+                        "Between 100 and 190",
+                        "There's no such thing as 'Android'"
+                    ]
+                },
+                {
+                    "title": "Title1",
+                    "question": "Question1",
+                    "answer": 1,
+                    "answers": [
+                        "Answer1",
+                        "Answer2",
+                        "Answer3",
+                        "Answer4"
+                    ]
+                },
+                {
+                    "title": "Title2",
+                    "question": "Question2",
+                    "answer": 1,
+                    "answers": [
+                        "Answer1",
+                        "Answer2",
+                        "Answer3",
+                        "Answer4"
+                    ]
+                },
+                {
+                    "title": "Title3",
+                    "question": "Question3",
+                    "answer": 1,
+                    "answers": [
+                        "Answer1",
+                        "Answer2",
+                        "Answer3",
+                        "Answer4"
+                    ]
+                },
+                {
+                    "title": "Title4",
+                    "question": "Question4",
+                    "answer": 1,
+                    "answers": [
+                        "Answer1",
+                        "Answer2",
+                        "Answer3",
+                        "Answer4"
+                    ]
+                },
+                {
+                    "title": "Title5",
+                    "question": "Question5",
+                    "answer": 1,
+                    "answers": [
+                        "Answer1",
+                        "Answer2",
+                        "Answer3",
+                        "Answer4"
+                    ]
+                }
+            ]
+        }
+    ]
+}
